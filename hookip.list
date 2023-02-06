@@ -7,3 +7,8 @@ DOMAIN-KEYWORD,dy
 DOMAIN-KEYWORD,douyinvod
 DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN,douyin.com
+MATCH,douyin.com
+DOMAIN,douyin
+MATCH,douyin
