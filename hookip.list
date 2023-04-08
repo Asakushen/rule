@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN,douyin.com
 DOMAIN,douyin
-DOMAIN,xhs
-DOMAIN-KEYWORD,xhs
-
+DOMAIN,xhscdn
+DOMAIN-KEYWORD,xhscdn
+DOMAIN-SUFFIX,xhscdn
+DOMAIN-SUFFIX,tieba-ares.cdn.bcebos.com
