@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,testipv6.cn,IPV6
+  - DOMAIN-SUFFIX,996414.xyz,IPV6
